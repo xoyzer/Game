@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Pavel/source/repos/Game/Content/background.jpg</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/enemy.png</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/File.spritefont</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/joshieejay-christie-04.jpg</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/RunHero.png</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/RunHero2.png</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/RunHeroBack.png</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/SecondFont.spritefont</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/Shot_2.png</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/shot.png</File>
+    <File>C:/Users/Pavel/source/repos/Game/Content/skull.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Background</File>
+    <File>enemy</File>
+    <File>SplashFont</File>
+    <File>screen</File>
+    <File>RunHero</File>
+    <File xsi:nil="true" />
+    <File>RunHeroBack</File>
+    <File>SecondFont</File>
+    <File>hero</File>
+    <File xsi:nil="true" />
+    <File>skull</File>
+  </DestFiles>
+</SourceFileCollection>

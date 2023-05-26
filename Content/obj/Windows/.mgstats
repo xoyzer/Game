@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Pavel/source/repos/Game/Content/background.jpg","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/Background.xnb","TextureProcessor","Texture2DContent",628552,16370365,0,6516159
+"C:/Users/Pavel/source/repos/Game/Content/enemy.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/enemy.xnb","TextureProcessor","Texture2DContent",14104,164757,0,0070043
+"C:/Users/Pavel/source/repos/Game/Content/File.spritefont","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/SplashFont.xnb","FontDescriptionProcessor","SpriteFontContent",2267,270239,0,1334898
+"C:/Users/Pavel/source/repos/Game/Content/joshieejay-christie-04.jpg","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/screen.xnb","TextureProcessor","Texture2DContent",1020471,31395925,0,902723
+"C:/Users/Pavel/source/repos/Game/Content/RunHero.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/RunHero.xnb","TextureProcessor","Texture2DContent",11230,61525,0,0028756
+"C:/Users/Pavel/source/repos/Game/Content/RunHero2.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/RunHero2.xnb","TextureProcessor","Texture2DContent",11877,80725,0,0038261
+"C:/Users/Pavel/source/repos/Game/Content/RunHeroBack.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/RunHeroBack.xnb","TextureProcessor","Texture2DContent",11337,61525,0,0033009
+"C:/Users/Pavel/source/repos/Game/Content/SecondFont.spritefont","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/SecondFont.xnb","FontDescriptionProcessor","SpriteFontContent",2267,40863,0,0299509
+"C:/Users/Pavel/source/repos/Game/Content/Shot_2.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/hero.xnb","TextureProcessor","Texture2DContent",14215,112945,0,0038036
+"C:/Users/Pavel/source/repos/Game/Content/shot.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/shot.xnb","TextureProcessor","Texture2DContent",3681,640085,0,0137959
+"C:/Users/Pavel/source/repos/Game/Content/skull.png","C:/Users/Pavel/source/repos/Game/Content/bin/Windows/skull.xnb","TextureProcessor","Texture2DContent",26735,160085,0,0052958
